@@ -1,6 +1,6 @@
 {
   "name": "Unblock Zaobao",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 2,
   "minimum_chrome_version": "18.0",
   "description": "Try to bypass the oversea limitation of zaobao.com",
