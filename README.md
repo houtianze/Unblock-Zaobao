@@ -2,14 +2,19 @@
 
 A simple Chrome extension for bypassing the oversea limitation of zaobao.com.
 
-## Usage
+## Installation and Usage
+1. Install this Chrome extension: https://chrome.google.com/webstore/detail/unblock-zaobao/cfcmbdcnihloomopldhopkkkokmodjmp
+2. That's all
 
-1. Download the Chrome extension (crx) file from  http://bit.ly/Unblock-Zaobao-crx
-2. Open your Chrome browser, go to Extension's page `chrome://extensions/`
-3. Drag and drop the crx file to the page.
-4. Visit [www.zaobao.com](http://www.zaobao.com) and you are free to read any news.
 
-_Note_: Please make sure to go to [www.zaobao.com](http://www.zaobao.com), NOT [www.zaobao.com.sg](http://www.zaobao.com.sg)
+~~## [DEPRECATED] Usage~~
+
+~~1. Download the Chrome extension (crx) file from  http://bit.ly/Unblock-Zaobao-crx~~
+~~2. Open your Chrome browser, go to Extension's page `chrome://extensions/`~~
+~~3. Drag and drop the crx file to the page.~~
+~~4. Visit [www.zaobao.com](http://www.zaobao.com) and you are free to read any news.~~
+
+~~_Note_: Please make sure to go to [www.zaobao.com](http://www.zaobao.com), NOT [www.zaobao.com.sg](http://www.zaobao.com.sg)~~
 
 ## Disclaimer
 
